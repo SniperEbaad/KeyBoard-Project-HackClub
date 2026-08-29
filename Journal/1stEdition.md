@@ -6,7 +6,7 @@ Haptic feedback
 Dynamic Lighting
 
 
-"""
+```
 Electronics & Controls
 
 Main Microcontroller - I will use this to run the keyboard, handle Bluetooth.
@@ -79,4 +79,4 @@ Lubricant - I will use this grease to stop the stabilizer wires from rattling.
 
 Hand Tools - I will use a screwdriver and keycap puller to assemble everything.
 
-"""
+```
