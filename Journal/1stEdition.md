@@ -5,78 +5,78 @@ Small OLED/E-ink display
 Haptic feedback
 Dynamic Lighting
 
+I worked 53 Minutes on This so Far!
 
+I Researched Used AI to ask for which components I need and Watched a YouTube Video and Took notes in Notepad!
 ```
 Electronics & Controls
 
-Main Microcontroller - I will use this to run the keyboard, handle Bluetooth.
+Main Micro controller- This I think Will Control the Keyboard and the Dongle and Bluetooth
 
-Dongle Microcontroller - I will use this as a USB receiver for wireless connection.
+Dongle Micro controller - This is a USB Dongle that will I think it connects the wirelessly to the Main Microcontrolller.
 
-IO Expander - I will use this to add extra pins for the keyboard layout.
+IO Expander - This Is goingg to add extra pins to the keyboard
 
-Display - I will use this small screen to show the time, volume, and computer stats without using much battery.
+Display - This Should show Time and some other features
 
-Rotary Encoder - I will use this knob to turn the volume up and down and mute audio.
+Rotary Encoder - This is for Volume Control
 
-Haptics - I will use this to add a subtle vibration click when pressing keys.
+Mode Switch - to switch from Bluetooth to Wireless Dongle to OFF/Wired
 
-Mode Switch - I will use this slide switch to change between wired, dongle, and Bluetooth modes.
+Power Transistor - shutoff backlight to save power
 
-Power Transistor - I will use this to shut off the backlight on battery to save power.
-
-Backlight LEDs & Resistors - I will use these to add a soft white backlight under the keys.
+Backlight LEDs & Resistors - This Will add a Clean White Back Light
 
  Circuit Resistors - I will use these to keep the signals and knob readings steady.
 
-Battery Connector - I will use this socket so the battery can plug into the board.
+Battery Connector - So the socket can connect battery.
 
 Switches, Keycaps & Sockets
 
-Switches - I will use these tactile switches for a quiet and creamy typing sound.
+Switches - I will use Some Creamy Switches That will be later in a BOM.MD
 
-Hot-Swap Sockets - I will use these so I can easily swap switches without desoldering.
+Hot-Swap Sockets - Easily Swap Switches so no desoldering.
 
-Diodes - I will use these to prevent phantom keypresses.
+Diodes - Prevent like ghosted pressess.
 
-Stabilizers - I will use these to keep the bigger keys like the spacebar balanced.
+Stabilizers - To keep bigger Keys Like SpaceBar Balanced.
 
-Keycaps - I will use these durable keycaps for typing.
+Keycaps - Will use good keycaps Also later metioned in BOM.MD.
 
 Power & Sound Dampening
 
-Battery - I will use this rechargeable battery to power the keyboard wirelessly.
+Battery - Rechargeable Battery to Keep the keyboard alive wirlessly
 
- Switch Pad Sheet - I will use this thin foam layer on the board to improve switch sound.
+Switch Pad Sheet - Thin foam later to improve switch sounds
 
-Plate Foam - I will use this foam to fill empty space and stop hollow echoes.
+Plate Foam - To fill empty spaces and fix hollow
 
-Case Foam - I will use this bottom foam layer to absorb case vibrations.
+Case Foam - Bottom Foam Layer
 
-Gasket Strips - I will use these foam strips around the edges for a softer typing feel.
+Gasket Strips - This is foam strips around the edges for a softer typing feel.
 
 Custom Fabrication
 
-Main PCB - I will design the main circuit board and get it made.
+Main PCB - Main PCB.
 
-Dongle PCB - I will design the small wireless receiver board.
+Dongle PCB - Small Wireless Board.
 
 Switch Plate - I will use this cut plate to hold all the switches in place.
 
-Case - I will 3D print the top and bottom shell.
+Case - 3D print the Top and Bottom Case.
 
 Assembly Tools & Hardware
 
-Fasteners - I will use these screws and brass inserts to hold the case together.
+Fasteners - Use these screws and brass inserts to hold the case together.
 
-Case Feet - I will use these rubber feet to keep the keyboard from sliding on the desk.
+Case Feet - Rubber feet to keep the keyboard from sliding on the desk.
 
-Cables - I will use a USB-C cable for wired use and charging, plus a small battery wire.
+Cables - USB-C cable for wired use and charging + a small battery wire.
 
-Soldering Gear - I will use this to solder the parts onto the circuit board.
+Soldering Gear - I will Need it to solder onto the PCB 
 
-Lubricant - I will use this grease to stop the stabilizer wires from rattling.
+Lubricant - Use this Grease to stop the stabilizer wires from rattling.
 
-Hand Tools - I will use a screwdriver and keycap puller to assemble everything.
+Hand Tools - ScrewDriver and keycap puller to assemble everything.
 
 ```
