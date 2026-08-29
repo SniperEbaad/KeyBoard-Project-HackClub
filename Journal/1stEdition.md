@@ -1,9 +1,4 @@
-So I just decided Some of My components Might Go Back it Took a Total of 37 Minutes So Far!
-
-'''
-Creamy Tactile 
-decide Key caps Set
-
+So This Is All I need SO far!
 features
 Small OLED/E-ink display
 3 Modes Bluetooth Mode and Wired Mode and Dongle mode
@@ -14,9 +9,9 @@ Dynamic Lighting
 
 Electronics & Controls
 
-Main Microcontroller - I will use this to run the keyboard, handle Bluetooth, and read keystrokes.
+Main Microcontroller - I will use this to run the keyboard, handle Bluetooth.
 
-Dongle Microcontroller - I will use this as a USB receiver for fast wireless connection.
+Dongle Microcontroller - I will use this as a USB receiver for wireless connection.
 
 IO Expander - I will use this to add extra pins for the keyboard layout.
 
@@ -84,4 +79,4 @@ Lubricant - I will use this grease to stop the stabilizer wires from rattling.
 
 Hand Tools - I will use a screwdriver and keycap puller to assemble everything.
 
-'''
+"""
