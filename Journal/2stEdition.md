@@ -1,4 +1,4 @@
-So I have spent 60 Minutes in this journal, I have started Designing the SCHEMATIC!
+So I have spent 1.7 Hours in this journal, I have started Designing the SCHEMATIC!
 
 
 <img width="2880" height="1800" alt="ScreenShot12. 
